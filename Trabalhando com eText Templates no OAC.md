@@ -27,7 +27,7 @@ Não se esqueça de salvar o resultado como Sample Data e **salvar o seu Data Mo
 
 ### Passo 2 - Instalando o Template Builder
 
-Uma vez com o XML em mãos, podemos criar o nosso modelo de relatório. Para simplificar esse processo, utilizaremos uma ferramenta disponibilizada pela própria Oracle: O Template Builder for Word. Você pode fazer o download dele na própria página inicial do OAC ou então nesse link: https://www.oracle.com/middleware/technologies/analytics-publisher.html
+Uma vez com o XML em mãos, podemos criar o nosso modelo de relatório. Para simplificar esse processo, utilizaremos uma ferramenta disponibilizada pela própria Oracle: O Template Builder for Word. Você pode fazer o download dele na própria página inicial do OAC ou então [nesse link](https://www.oracle.com/middleware/technologies/analytics-publisher.html).
 Certifique-se de utilizar uma versão compatível com seu Microsoft Office (32 ou 64 bits)
 
 ![](https://i.imgur.com/AkqG9QC.png)
@@ -72,10 +72,12 @@ Salve seu arquivo RTF e execute ele junto com o XML gerado no passo 1. Não se e
 
 ![](https://i.imgur.com/WsWS7Bh.png)
 
-Esses exemplos são extremamente simples, mas é possível incluir regras de formatação mais sofisticadas, como condicionais ou cálculos matemáticos. Se precisar se aventurar nesses aspectos, recomendo o seguinte vídeo: https://www.youtube.com/watch?v=bnSXRO9woVM
+Esses exemplos são extremamente simples, mas é possível incluir regras de formatação mais sofisticadas, como condicionais ou cálculos matemáticos. Se precisar se aventurar nesses aspectos, recomendo [este vídeo](https://www.youtube.com/watch?v=bnSXRO9woVM) 
 
 ![](https://i.imgur.com/rsz0NhU.png)
 ![](.pastes\2022-04-29-10-39-06.png)
+
+Você pode fazer download dos arquivos gerados por mim para esse exemplo [neste link](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grri30nzv1ul/b/MateriaisTreinamento/o/eTextExemplo.rar) 
 
 ### Passo 4 - Criando o relatório no OAC
 
