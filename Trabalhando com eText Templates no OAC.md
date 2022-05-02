@@ -75,7 +75,8 @@ Salve seu arquivo RTF e execute ele junto com o XML gerado no passo 1. Não se e
 Esses exemplos são extremamente simples, mas é possível incluir regras de formatação mais sofisticadas, como condicionais ou cálculos matemáticos. Se precisar se aventurar nesses aspectos, recomendo [este vídeo](https://www.youtube.com/watch?v=bnSXRO9woVM) 
 
 ![](https://i.imgur.com/rsz0NhU.png)
-![](.pastes\2022-04-29-10-39-06.png)
+
+![](https://i.imgur.com/wMK0YBU.png)
 
 Você pode fazer download dos arquivos gerados por mim para esse exemplo [neste link](https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grri30nzv1ul/b/MateriaisTreinamento/o/eTextExemplo.rar) 
 
