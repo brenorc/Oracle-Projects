@@ -39,10 +39,9 @@ Pronto! É só isso. Ao executar o código você deve receber uma mensagem como 
 ![](https://i.imgur.com/2Ozkiwu.png)
 
 Isso significa que sua Procedure está salva e agora pode ser chamada através do comando abaixo:
-
-**Execução da carga **
+```
 EXEC CargaCSV;
-
+```
 Para validar se a carga realmente funcionou, podemos verificar quantas linhas existem na tabela CREDIT_SCORING_100K:
 ```
 SELECT COUNT(*) FROM CREDIT_SCORING_100K
