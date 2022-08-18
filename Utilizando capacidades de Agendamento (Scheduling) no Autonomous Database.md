@@ -76,11 +76,6 @@ Em Execution Mode, faremos uma automatização para que essa Procedure seja exec
 ![](https://i.imgur.com/HHqvRI6.png)
 
 Sempre preste atenção no fuso horário do seu banco Autonomous. O padrão dele é UTC, enquanto em São Paulo estamos em UTC-3. Portanto, executar a rotina às 03h do meu banco significa executá-la à meia noite em São Paulo. Feito tudo isso, clique no botão **Create** para criar o Job. Uma mensagem de sucesso deverá aparecer na sua tela.
-```
-SELECT SYSDATE FROM DUAL
-```
-![](.pastes\2022-08-11-18-06-02.png)
-
 No meu caso, aguardei alguns dias e voltei para verificar o progresso do meu job. Na tela pode-se ver uma visão geral de quantas vezes o Job foi executado com sucesso, quantas vezes ocasionou falhas e quando foi a última e será a próxima execução.
 Pode-se também executar um job manualmente ou editá-lo quando necessário.
 
